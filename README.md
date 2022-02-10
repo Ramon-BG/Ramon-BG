@@ -7,8 +7,8 @@ Comecei recentemente a me envolver com a área de desenvolvimento, e por esse mo
 ## :chart_with_upwards_trend: Minhas estatísticas
 
  <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramon-BG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-BG&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ramon-BG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-BG&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 </br>
 
