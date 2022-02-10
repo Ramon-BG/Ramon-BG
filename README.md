@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá, meu nome é Ramon
 
-<!--
-**Ramon-BG/Ramon-BG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aqui é onde compartilho minha evolução e projetos
 
-Here are some ideas to get you started:
+Comecei recentemente a me envolver com a área de desenvolvimento, e por esse motivo criei meu perfil aqui no GitHub, com o objetivo de compartilhar sobre minha evolução, aprender e me desenvolver profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :chart_with_upwards_trend: Minhas estatísticas
+
+ <div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramon-BG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-BG&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+</br>
+
+<!-- ### Ferramentas e Tecnologias -->
+
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Tenho interesse em aprender
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
