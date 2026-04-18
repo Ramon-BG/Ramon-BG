@@ -1,29 +1,23 @@
-# Olá, meu nome é Ramon
+🚀 Full Stack Developer | Java & Spring Boot
+Olá, sou o Ramon. Desenvolvedor focado em construir aplicações eficientes e escaláveis. Atualmente, estou na reta final da graduação em Análise e Desenvolvimento de Sistemas pela Estácio (5º semestre), concentrando meus esforços em arquitetura de sistemas e desenvolvimento Full Stack.
 
-## Aqui é onde compartilho minha evolução e projetos
+💼 Perfil Profissional
+Formação: Graduando em ADS (5º Semestre) – Estácio.
 
-Comecei recentemente a me envolver com a área de desenvolvimento, e por esse motivo criei meu perfil aqui no GitHub, com o objetivo de compartilhar sobre minha evolução, aprender e me desenvolver profissionalmente.
+Stack Principal: Desenvolvimento de APIs REST com Java e ecossistema Spring.
 
-## :chart_with_upwards_trend: Minhas estatísticas
+Interface: Criação de experiências de usuário dinâmicas e responsivas com JavaScript.
 
- <div align='center'>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ramon-BG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-BG&layout=compact&langs_count=7&theme=blue-green"/>
+Posicionamento: Desenvolvedor Júnior com foco em qualidade de código, lógica de programação e resolução de problemas complexos.
+
+🛠️ Tecnologias e Ferramentas
+Backend & Infrastructure
+Frontend
+📊 Estatísticas de Código
+<div align='center'>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ramon-BG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-BG&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
-</br>
 
-<!-- ### Estou aprendendo -->
-
-### Ferramentas e Tecnologias
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<!-- ### Tenho interesse em aprender -->
-
-
+📫 Contato e Networking:
+LinkedIn: www.linkedin.com/in/ramonbianco
