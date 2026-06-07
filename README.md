@@ -54,7 +54,7 @@ No 5º semestre de Análise e Desenvolvimento de Sistemas pela Estácio.
 
 ## Projetos
 
-**[conecta-terapias](https://github.com/Ramon-BG/conecta-terapias)** — em desenvolvimento
+**conecta-terapias** `repositório privado` — em desenvolvimento
 
 App mobile de match automático entre pacientes e psicólogos. O paciente descreve sua situação e o sistema encontra e notifica os profissionais compatíveis — sem busca manual.
 
@@ -63,12 +63,3 @@ App mobile de match automático entre pacientes e psicólogos. O paciente descre
 - Push notifications com deep linking (Expo Push API + webhook)
 - Conformidade LGPD: audit logs, soft delete, consentimento explícito
 - React Native + Expo SDK 56 (Android, iOS e Web)
-
----
-
-## Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ramon-BG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-BG&layout=compact&langs_count=6&theme=blue-green&hide_border=true"/>
-</div>
